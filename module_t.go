@@ -8,8 +8,8 @@ import (
 
 const (
 	theModuleName    = "github.com/bitwormhole/wpm-api"
-	theModuleVersion = "v0.0.0"
-	theModuleRev     = 0
+	theModuleVersion = "v0.0.1"
+	theModuleRev     = 1
 )
 
 ////////////////////////////////////////////////////////////////////////////////
